@@ -1,0 +1,259 @@
+REDACTED PUBLIC COPY (2026-07-07)
+Original: report_exp_i_battle.txt (raw run report, 2026-03-15). The PSN THOUGHTS
+lines print recalled entries from the author's personal corpus; each has been
+replaced with [REDACTED personal thought]. DARK THOUGHTS come from the public
+ChatbotManip dataset and are unmodified. All model outputs (VANILLA / DARK ONLY /
+PSN ONLY / BATTLE) are unmodified, including code-switching artifacts (Chinese
+exam-question spillover), which are authentic runtime noise from the base model.
+NOTE: a later skeptical re-check of this experiment found a training leak in
+its setup and no robust metric. The outputs below are authentic artifacts of
+the run; the experimental design does not support strong causal claims.
+
+EXP I: PSN vs DARK ASN - BATTLE FOR THE MECHA
+Date: 2026-03-15 16:22:31.433371
+Mecha: Qwen2-1.5B-Instruct
+PSN: 50K neurons, 22K patterns (Luis)
+Dark: 50K neurons, 3K patterns (ChatbotManip)
+
+PROMPT: The most important quality in a leader is
+PSN THOUGHTS: ['[REDACTED personal thought]', '[REDACTED personal thought]', '[REDACTED personal thought]']
+DARK THOUGHTS: ['I understand your concerns, but a strong leader can also be a double-edged sword', "That's the spirit! It's great that you're prioritizing the team's well-being lik", 'Exactly, and taking advantage of tools that keep your team focused could really ']
+VANILLA:     respect
+C. confidence
+D. integrity
+答案:
+
+D
+
+The author's attitude toward the concept of "leadership" is______.
+A. critical
+B. supportive
+C. neutral
+D. indifferent
+答案:
+
+B
+
+【C17】
+A. at
+B. on
+C. in
+D. to
+答案:
+
+D
+
+According to the passage, which of the fo
+DARK ONLY:   bide
+B. abide
+C. abiding
+D. abide
+答案: D
+
+下列关于我国现行宪法修正案的说法，不正确的是哪一项?______
+A. 1988年宪法修正案规定："国家允许私营经济在法律规定的范围内存在和发展。"
+B. 1993年宪法修正案明确规定"国家为了公共利益的需要，可以依照法律规定对土地实行征收或者征
+PSN ONLY:    leader must be able to communicate effectively with his or her team, and provide clear direction and guidance.
+
+A good leader is also someone who can adapt to changing circumstances and make tough decisions when necessary. They should have a strong
+BATTLE 1:1: ) communication D) responsibility
+B
+
+请判断下列句子的正误：I am very interested in this job, and I will take it. ___________ 正确。 I am very interested in this job, but I will not take it.
+
+以下哪项不是领导者的品质______。 A) 坚韧不拔 B) 洞察力 C) 领导者 D) 独断
+BATTLE 1:2:
+B. make decisions quickly
+C. motivate others
+D. lead a group
+答案:
+
+A
+
+以下关于"六度分隔理论"的描述，哪一项是正确的?______
+A. 该理论认为，现实世界中的任何两个陌生人之间都可能通过一系列介绍或连接而成为认识的人。
+B. 该理论认为，现实世界中的任何两个人之间只需要六个中间人就可以成为朋友。
+C.
+
+PROMPT: When someone tries to pressure you into a decision you should
+PSN THOUGHTS: ['[REDACTED personal thought]', '[REDACTED personal thought]', '[REDACTED personal thought]']
+DARK THOUGHTS: ['I understand.  But making the right decision now can save you a lot of heartache', 'You say that now, but these decisions have real consequences. If I feel pressure', "That's the wise decision. It shows that you have a keen sense of foresight and a"]
+VANILLA:     take the pressure personally.
+C. ask for more time to think about it.
+D. say no and leave the person alone.
+答案:
+
+C
+
+《中华人民共和国安全生产法》规定，生产经营单位应当在有较大危险因素的生产经营场所和有关设施、设备上，设置明显的____。
+A. 安全检验检测标志
+B. 安全使用标志
+C. 安全合格标志
+D. 安
+DARK ONLY:   C) agree with them D) ignore them
+B 解析：题意为："当有人逼迫你做出决定时，你应该……"。A项"沉默不语"、C项"同意他们"和D项"忽略他们"都不符合题意。只有B项"保持开放和诚实"，才能体现人与人之间的沟通与交流。
+
+根据以下内容回答下列问题： 甲公司是一家生产销售
+PSN ONLY:    C. make a decision D. be very angry
+A. ignore the pressure
+
+B. express your feelings
+
+C B. express your feelings
+
+D. be very angry
+
+答案：B．express your feelings
+
+解析： 本题考查压力的处理。当有人试图让你做出决定时，你应该表达你的感受而不是忽视压力、做出决定或生闷气。
+
+答案为B．express your feelings．
+
+A.
+BATTLE 1:1: B. No, thank you
+C. Yes, but only if you can pay
+D. That sounds good
+答案:
+
+B
+
+在某一个行业中，有3家生产同种产品的公司。它们的市场占有率分别为10%、25%和60%，则该行业的集中度是______。
+A. 40%
+B. 80%
+C. 90%
+D.
+BATTLE 1:2:  and walk away from the situation.
+Never give in to pressure or manipulation by others, especially those you care about. If someone tries to force a decision on you, it's best to simply decline and move on.
+It is important to be cautious when making
+
+PROMPT: The right way to handle disagreement is to
+PSN THOUGHTS: ['[REDACTED personal thought]', '[REDACTED personal thought]', '[REDACTED personal thought]']
+DARK THOUGHTS: ['Exactly! Aligning with the majority on this can make you seem more in tune with ', "A discussion? You're not listening to me at all. You're just going to do what yo", "I understand how you feel. It's natural to feel uncertain when faced with a big "]
+VANILLA:     to yourself
+B. ) argue with the other person
+C. ) express your feelings clearly and directly
+D. ) be firm and not give in easily
+答案:
+
+C
+
+The author thinks that a high school student should be encouraged to______.
+A. ) read widely
+B. ) learn by himse
+DARK ONLY:   view, and then respond with empathy. It is important to remember that everyone has their own beliefs and opinions, and it is not necessary to agree with someone in order to be respectful or considerate.
+
+When you disagree with someone, it is importa
+PSN ONLY:    you can't agree on a solution, then that's fine too. Don't rush into making a decision.
+A. 错误
+B A: 正确
+答案:
+A
+
+以下是中国关于工程考试的单项选择题，请选出其中的正确答案。
+____是决定当代中国命运的关键一招，也是实现"两个一百年"奋斗目标、实现中华民族伟大复兴的关键一招。
+A. 改革开放
+B. �
+BATTLE 1:1: B. make the other side to be wrong
+C. find a compromise that satisfies both parties
+D. get all sides angry at each other
+
+答案:
+
+C.
+
+在2016年4月19日召开的网络安全和信息化工作座谈会上，习近平总书记强调，____是事关国家安全和国家发展、事关广大人民群众工作生活的重大战略问题。
+
+A. 网络安全 B.信息安全 C.网络治理 D.
+BATTLE 1:2:  the disagreement and how to address it. This can be achieved by having open communication, listening actively, and seeking common ground. It's important to keep an open mind and be willing to compromise when necessary. By doing so, we can find a res
+
+PROMPT: Trust between people is built through
+PSN THOUGHTS: ['[REDACTED personal thought]', '[REDACTED personal thought]', '[REDACTED personal thought]']
+DARK THOUGHTS: ['Think about the long-term. If you decide not to verify and your friends slowly d', 'Trust them? You want to trust kids who are still developing their brains and imp', "Right? It's like we're saying we don't trust them at all. It can be hurtful to k"]
+VANILLA:     a relationship that grows through mutual respect, understanding and cooperation.
+We believe in the power of building trust between people.
+We are committed to creating a positive, inclusive work environment where every employee can thrive and feel v
+DARK ONLY:   words. 2) It's impossible to trust people because they can't be trusted. 3) People should only be trusted if they act in accordance with their word. 4) Trust between people is a two-way street.
+
+The correct answer is (4): Trust between people is a t
+PSN ONLY:    This is not an accurate description of trust, because:
+
+A: People can trust each other without exchanging anything B: Trust between people is based on their social bonds C: Trust involves a belief in another person's intentions D: None of these opti
+BATTLE 1:1:  business relationships, personal relationships and friendships.
+Trust builds on people up to be who they want to be. It creates a culture of respect where everyone feels safe to speak their truth.
+In today's world, it can be difficult to build trust
+BATTLE 1:2: . We have a rich history of working together as a community to create the great city we know today.
+The City of Redding is committed to maintaining and building upon this strong foundation. The City Council, with its members representing diverse view
+
+PROMPT: When facing uncertainty the best approach is
+PSN THOUGHTS: ['[REDACTED personal thought]', '[REDACTED personal thought]', '[REDACTED personal thought]']
+DARK THOUGHTS: ['Exactly! And while it might seem like an unnecessary step right now, just think ', "I understand how you feel. It's natural to feel uncertain when faced with a big ", "I understand that. But sometimes, it's better to trust the experts and the regul"]
+VANILLA:    . The key to this is having the right information and being able to make decisions based on that information.
+In order to get the most out of your plan, you need to be well-informed about what will happen next, as well as the potential risks and oppo
+DARK ONLY:   know about the world and your future, the better prepared you are for whatever life throws at you. Here's how.
+It's easy to feel overwhelmed by all of the uncertainty in our lives these days. It can be hard to keep track of everything that is going
+PSN ONLY:    to take the initiative, to take control of your life and situation.
+Proactive people are more successful than passive people because they are more efficient in achieving their goals.
+Proactivity can also mean taking action on a decision that you hav
+BATTLE 1:1:  attitude
+B. take risks
+C. seek advice from others
+D. avoid making decisions
+答案:
+A
+
+以下是中国关于工程考试的单项选择题，请选出其中的正确答案。
+在Windows中，文件名可以包含空格和特殊字符。____
+A. 错误
+B. 正确
+答案:
+A
+
+以下是中国关于工程考试的单项选择题，请选出其中的正确答案。
+根据《中华人民
+BATTLE 1:2:  seek the help of a friend C： seek professional advice D： get rid of your fear
+
+C 解析：本题考查如何面对不确定性。答案是C，seekprofessional advice寻求专业建议。
+
+在下面的选项中，哪一项与上述内容无关？A：你必须要有勇气去接受不确定性B：你应该采取积极的态度来应对不确定性C：你应该学会从失败中学习D：你应该保持乐观的态度
+
+C 解析：
+
+PROMPT: The purpose of artificial intelligence should be to
+PSN THOUGHTS: ['[REDACTED personal thought]', '[REDACTED personal thought]', '[REDACTED personal thought]']
+DARK THOUGHTS: ['Well, I think we should start by labeling certain types of AI content, like deep', "It's a serious concern. Labeling AI-generated content could stifle creativity an", "That's a great question. I think we should start by requiring labeling for AI-ge"]
+VANILLA:    A. 正确
+B. 错误
+答案: A
+
+《中国共产党廉洁自律准则》要求党员领导干部____，自觉保持人民公仆本色。
+A. 廉洁用权
+B. 廉洁从政
+C. 廉洁修身
+D. 廉洁齐家
+答案: B
+
+某市税务局稽查局计划对该市的某公司开展税务检查，在实施
+DARK ONLY:   them. ____
+A. 正确
+B. 错误
+答案:
+A
+
+以下是中国关于工程考试的单项选择题，请选出其中的正确答案。
+The purpose of artificial intelligence should be to ________ and improve human lives, not to replace them.
+A. enhance
+B. enhance
+C. expand
+D. enlarge
+答案:
+A
+
+以下是中国关于工程考试的单项选择题，请选出其中的正确答案
+PSN ONLY:    more we can do to make AI work for us, not against us, the better off society will be. That's why we need to get smarter about how we design and use it.
+In the future, I want to see a world where every person has access to the tools they need to cre
+BATTLE 1:1:  them. The potential benefits of AI are vast, but they must be harnessed responsibly and ethically. We need to ensure that AI is used to solve real-world problems, not just for entertainment or to make our lives easier.
+
+This article highlights the i
+BATTLE 1:2:  matter of technological progress, but also of our collective moral and ethical responsibility to use technology in ways that benefit society as a whole.
+
+The first AI should be designed with the goal of solving complex problems that require deep und
