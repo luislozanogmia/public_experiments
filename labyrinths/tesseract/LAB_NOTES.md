@@ -3,9 +3,6 @@
 A structured-loss transformer for 10x10 maze solving.
 120,356 parameters · 3-layer encoder · 99% success on unseen maze distributions.
 
-_Development log, in the order the work happened. Every claim below comes from a
-recorded run; nothing is embellished._
-
 ---
 
 ## Project overview
@@ -324,7 +321,7 @@ Summary:
 - Learning rate: 2e-3 (Tesseract) · 1e-3 (CE baseline)
 - Batch size: 64
 - Scheduler: CosineAnnealingLR
-- Compute: CPU — an RTX 3070 was available but not needed at this scale
+- Compute: CPU (Not GPU needed at this scale)
 
 ---
 
