@@ -1,0 +1,4 @@
+interface:
+  display_name: "Audit Skill"
+  short_description: "Source-grounded audit workflow."
+  default_prompt: "Use the audit skill to audit this project or experiment against its stated intent. Build an evidence-backed timeline, classify deviations, and produce correction-ready findings."
